@@ -1,0 +1,35 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+nav {
+    width: 100%;
+    margin: 20px auto 10px auto;
+}
+
+.nav-item, a {
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+    background-color: #000000;
+    color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+img {
+    margin: 20px auto;
+    width: 250px;
+}
+
+form {
+    width: 300px;
+    margin: 20px;
+    border: 1px dotted black;
+}
+
+input, textarea {
+    display: block;
+    margin: 10px;
+    box-shadow: 2px 2px black;
+}
